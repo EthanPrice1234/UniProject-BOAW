@@ -1,0 +1,13 @@
+.main-menu-button {
+    width: 450px;
+    height: 120px;
+    justify-content: flex-start;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    font-size: 40px;
+    background-color: rgb(230, 230, 230);
+    -unity-font-style: bold;
+    text-shadow: 2px 2px 0 rgb(0, 0, 0);
+}
